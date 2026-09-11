@@ -1,0 +1,31 @@
+team_id,team_name,league,division,games_played,runs,doubles,triples,home_runs,walks,strikeouts,hits,batting_average,obp,slg,ops,stolen_bases
+133,Athletics,American League,American League West,162,733,296,16,219,502,1406,1403,0.253,0.318,0.431,0.749,80
+134,Pittsburgh Pirates,National League,National League Central,162,583,245,21,117,530,1422,1244,0.231,0.305,0.35,0.655,115
+135,San Diego Padres,National League,National League West,162,702,254,18,152,510,1161,1369,0.252,0.321,0.39,0.711,106
+136,Seattle Mariners,American League,American League West,162,766,234,9,238,544,1446,1345,0.244,0.32,0.42,0.74,161
+137,San Francisco Giants,National League,National League West,162,705,239,28,173,556,1380,1261,0.235,0.311,0.386,0.697,68
+138,St. Louis Cardinals,National League,National League Central,162,689,264,9,148,478,1321,1331,0.245,0.314,0.379,0.693,89
+139,Tampa Bay Rays,American League,American League East,162,714,242,16,182,468,1397,1374,0.251,0.313,0.401,0.714,194
+140,Texas Rangers,American League,American League West,162,684,245,15,175,486,1327,1275,0.234,0.302,0.381,0.683,134
+141,Toronto Blue Jays,American League,American League East,162,798,294,13,191,520,1099,1461,0.265,0.333,0.427,0.76,77
+142,Minnesota Twins,American League,American League Central,162,678,249,20,191,495,1372,1295,0.238,0.31,0.397,0.707,114
+143,Philadelphia Phillies,National League,National League East,162,778,268,24,212,528,1337,1426,0.258,0.328,0.431,0.759,124
+144,Atlanta Braves,National League,National League East,162,724,243,19,190,575,1371,1349,0.245,0.32,0.399,0.719,82
+145,Chicago White Sox,American League,American League Central,162,647,243,10,165,498,1364,1250,0.232,0.302,0.373,0.675,85
+146,Miami Marlins,National League,National League East,162,709,272,29,154,482,1247,1388,0.25,0.314,0.393,0.707,138
+147,New York Yankees,American League,American League East,162,849,255,20,274,639,1463,1371,0.251,0.332,0.455,0.787,134
+158,Milwaukee Brewers,National League,National League Central,162,806,265,18,166,564,1266,1423,0.258,0.332,0.403,0.735,164
+108,Los Angeles Angels,American League,American League West,162,673,212,17,226,484,1627,1209,0.225,0.298,0.397,0.695,88
+109,Arizona Diamondbacks,National League,National League West,162,791,277,38,214,545,1316,1377,0.251,0.325,0.433,0.758,121
+110,Baltimore Orioles,American League,American League East,162,677,251,19,191,484,1457,1273,0.235,0.305,0.394,0.699,121
+111,Boston Red Sox,American League,American League East,162,786,324,24,186,518,1419,1414,0.254,0.324,0.421,0.745,139
+112,Chicago Cubs,National League,National League Central,162,793,267,29,223,554,1277,1371,0.249,0.32,0.43,0.75,161
+113,Cincinnati Reds,National League,National League Central,162,716,250,23,167,527,1415,1333,0.245,0.315,0.391,0.706,105
+114,Cleveland Guardians,American League,American League Central,162,643,243,18,168,494,1344,1199,0.226,0.296,0.373,0.669,129
+115,Colorado Rockies,National League,National League West,162,597,253,37,160,395,1531,1281,0.237,0.293,0.386,0.679,87
+116,Detroit Tigers,American League,American League Central,162,758,244,36,198,511,1454,1346,0.247,0.316,0.413,0.729,61
+117,Houston Astros,American League,American League West,162,686,247,12,182,471,1301,1372,0.25,0.315,0.399,0.714,85
+118,Kansas City Royals,American League,American League Central,162,651,292,22,159,435,1096,1342,0.247,0.309,0.397,0.706,111
+119,Los Angeles Dodgers,National League,National League West,162,825,257,21,244,580,1353,1384,0.253,0.327,0.441,0.768,88
+120,Washington Nationals,National League,National League East,162,687,258,28,161,443,1351,1313,0.242,0.304,0.389,0.693,132
+121,New York Mets,National League,National League East,162,766,262,19,224,563,1325,1359,0.249,0.326,0.427,0.753,147
